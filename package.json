@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/lotosbin/code-push-completion/issues"
   },
-  "homepage": "https://github.com/lotosbin/code-push-completion#readme"
+  "homepage": "https://github.com/lotosbin/code-push-completion#readme",
+  "dependencies": {
+    "tabtab": "^2.2.2"
+  }
 }
