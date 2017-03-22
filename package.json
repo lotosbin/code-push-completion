@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Adding tab completion to the CodePush CLI (https://github.com/Microsoft/code-push)",
   "main": "index.js",
+  "bin":"index.js",
   "scripts": {
+    "install": "tabtab install --name code-push --completer code-push-completion",
+    "uninstall": "tabtab uninstall --auto",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
