@@ -1,0 +1,23 @@
+{
+  "name": "code-push-completion",
+  "version": "1.0.0",
+  "description": "Adding tab completion to the CodePush CLI (https://github.com/Microsoft/code-push)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lotosbin/code-push-completion.git"
+  },
+  "keywords": [
+    "code-push",
+    "completion"
+  ],
+  "author": "lotosbin <lotosbin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lotosbin/code-push-completion/issues"
+  },
+  "homepage": "https://github.com/lotosbin/code-push-completion#readme"
+}
